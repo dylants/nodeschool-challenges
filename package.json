@@ -1,0 +1,10 @@
+{
+    "name": "nodeschool-challenges",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "learnyounode": "0.2.15",
+        "moment": "~2.2.1",
+        "through2-map": "~1.2.0"
+    }
+}

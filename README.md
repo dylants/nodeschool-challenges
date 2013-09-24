@@ -5,14 +5,14 @@ challenges to help learn node. This project is an attempt at completing those ch
 
 ## learnyounode ##
 
-To install the learnyounode module:
+To install dependencies:
 
-<code>npm install learnyounode</code>
+<code>npm install</code>
 
 To bring up the challenges:
 
 <code>./node_modules/.bin/learnyounode</code>
 
-To verify the challenges:
+To verify the challenges (as an example):
 
 <code>./node_modules/.bin/learnyounode verify learnyounode/1_hello_world/index.js</code>
