@@ -5,6 +5,7 @@
     "dependencies": {
         "learnyounode": "0.2.15",
         "moment": "~2.2.1",
-        "through2-map": "~1.2.0"
+        "through2-map": "~1.2.0",
+        "stream-adventure": "~2.1.1"
     }
 }
