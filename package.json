@@ -6,6 +6,11 @@
         "learnyounode": "0.2.15",
         "moment": "~2.2.1",
         "through2-map": "~1.2.0",
-        "stream-adventure": "~2.1.1"
+        "stream-adventure": "~2.1.1",
+        "through": "~2.3.4",
+        "split": "~0.2.10",
+        "concat-stream": "~1.2.1",
+        "request": "~2.29.0",
+        "websocket-stream": "~0.3.3"
     }
 }
