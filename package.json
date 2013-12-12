@@ -13,6 +13,7 @@
         "request": "~2.29.0",
         "websocket-stream": "~0.3.3",
         "trumpet": "~1.6.3",
-        "tar": "~0.1.19"
+        "tar": "~0.1.19",
+        "bytewiser": "~0.0.4"
     }
 }

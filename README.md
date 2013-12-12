@@ -30,3 +30,17 @@ To bring up the challenges:
 To verify the challenges (as an example):
 
 <code>./node_modules/.bin/stream-adventure verify stream-adventure/1_beep_boop/program.js</code>
+
+## bytewiser ##
+
+To install dependencies:
+
+<code>npm install</code>
+
+To bring up the challenges:
+
+<code>./node_modules/.bin/bytewiser</code>
+
+To verify the challenges (as an example):
+
+<code>./node_modules/.bin/bytewiser verify bytewiser/1_buffer_from_string/program.js</code>
