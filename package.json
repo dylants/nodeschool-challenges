@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "private": true,
     "dependencies": {
-        "learnyounode": "0.2.15",
+        "learnyounode": "*",
         "moment": "~2.2.1",
         "through2-map": "~1.2.0",
         "stream-adventure": "~2.1.1",
@@ -14,6 +14,10 @@
         "websocket-stream": "~0.3.3",
         "trumpet": "~1.6.3",
         "tar": "~0.1.19",
-        "bytewiser": "~0.0.4"
+        "bytewiser": "~0.0.4",
+        "expressworks": "*",
+        "express": "^4.10.1",
+        "jade": "^1.7.0",
+        "body-parser": "^1.9.2"
     }
 }
