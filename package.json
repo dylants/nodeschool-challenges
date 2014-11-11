@@ -18,6 +18,8 @@
         "expressworks": "*",
         "express": "^4.10.1",
         "jade": "^1.7.0",
-        "body-parser": "^1.9.2"
+        "body-parser": "^1.9.2",
+        "lololodash": "^0.3.2",
+        "lodash": "^2.4.1"
     }
 }
