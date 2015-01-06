@@ -51,7 +51,8 @@ it via the command:
 
 `$ npm install -g node-static`
 
-Then from the assets directory, issue the command:
+Then from the assets/&lt;app name&gt; directory (for instance, `assets/BoilerplateApp`),
+issue the command:
 
 `$ static`
 
