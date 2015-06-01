@@ -22,6 +22,8 @@
         "lololodash": "^0.3.2",
         "lodash": "^2.4.1",
         "introtowebgl": "*",
-        "count-to-6": "^0.7.0"
+        "count-to-6": "^0.7.0",
+        "mongodb": "^2.0.33",
+        "learnyoumongo": "^1.1.5"
     }
 }
