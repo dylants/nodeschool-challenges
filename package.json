@@ -24,6 +24,9 @@
         "introtowebgl": "*",
         "count-to-6": "^0.7.0",
         "mongodb": "^2.0.33",
-        "learnyoumongo": "^1.1.5"
+        "learnyoumongo": "^1.1.5",
+        "browserify": "^10.2.6",
+        "browserify-adventure": "^1.7.4",
+        "uniq": "^1.0.1"
     }
 }
